@@ -70,7 +70,7 @@ recipe-composer/
 ### 1. Clone the repo
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Saumya-bhardwaj04/Recipe-Composer.git
 cd recipe-composer
 ```
 
